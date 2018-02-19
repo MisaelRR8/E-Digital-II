@@ -1,0 +1,7 @@
+adapter speed: 2000 kHz
+BOARD variable undefined: Using CIAA-NXP as default board, qspi flash defined!
+none separate
+cortex_m reset_config vectreset
+Error: no device found
+Error: unable to open ftdi device with vid 0403, pid 6010, description '*', serial '*' at bus location '*'
+
