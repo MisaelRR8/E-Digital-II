@@ -1,7 +1,7 @@
 echo off
 
 rem SET BOARD=edu_cia_nxp
-SET NOMBRE=TP_Regularizador
+SET NOMBRE=TP_Final
 
 echo,
 echo - Generando codigo assembly
