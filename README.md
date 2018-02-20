@@ -1,2 +1,3 @@
-# E-Digital-II
-Final project for the assignment Electrónica Digital II
+# Electronica-Digital-II
+Final project for the assignment Electronica Digital II
+Employing an Edu-CIAA as a scope.
