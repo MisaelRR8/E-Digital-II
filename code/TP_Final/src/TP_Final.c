@@ -1,6 +1,6 @@
 /**********************************************************************************************
  * Aplicacion de prueba para imprimir sobre una terminal
- * 
+ *
  * Materia: Electronica Digital II - 2016 (UNSAM)
  *
  * Documentacion:
@@ -22,6 +22,7 @@ int main(void){
 	DEBUGSTR(aux);
 
 	while (1) {
+
 	}
 
 	return 0;
