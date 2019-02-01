@@ -15,10 +15,6 @@
  * Returns      : rf cal sector
 *******************************************************************************/
 
-// A VER
-
-//Oigad 
-
 uint32 user_rf_cal_sector_set(void)
 {
     flash_size_map size_map = system_get_flash_size_map();
